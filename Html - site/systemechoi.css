@@ -114,3 +114,10 @@ h1{
     background-image:url('fond1.jpg');
      
   }
+  img {
+    width:481px ;
+    height: 440px;
+position: absolute;
+top: 1px;
+right: 590px;
+  }
